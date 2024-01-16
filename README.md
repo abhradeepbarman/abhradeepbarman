@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhradeep Barman</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhradeepbarman" alt="abhradeepbarman" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abhra_deep_brmn" target="blank"><img src="https://img.shields.io/twitter/follow/abhra_deep_brmn?logo=twitter&style=for-the-badge" alt="abhra_deep_brmn" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack Development**
