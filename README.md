@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack Development**
 
-- 👨‍💻 All of my projects are available at [https://abhradeepbarman.vercel.app/](https://abhra.xyz/)
+- 👨‍💻 All of my projects are available at [https://abhra.xyz/](https://abhra.xyz/)
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, Tailwind CSS, JavaScript**
 
