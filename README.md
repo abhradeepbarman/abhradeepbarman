@@ -10,6 +10,9 @@
   <a href="https://linkedin.com/in/abhradeepbarman">
     <img src="https://img.shields.io/badge/LinkedIn-Abhradeep%20Barman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/abhrdev">
+    <img src="https://img.shields.io/badge/X-@abhrdev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 ---
@@ -58,30 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=abhradeepbarman&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Abhradeep's GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhradeepbarman&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abhradeepbarman&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
@@ -90,6 +69,6 @@
   </a>
   &nbsp;
   <a href="https://x.com/abhrdev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="35" alt="X" />
+    <img src="https://cdn.simpleicons.org/x" height="35" alt="X" />
   </a>
 </p>
